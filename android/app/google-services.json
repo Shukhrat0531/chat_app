@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892427771067",
+    "project_id": "chat-app-20956",
+    "storage_bucket": "chat-app-20956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892427771067:android:2b07c768b0814ae5c55d9e",
+        "android_client_info": {
+          "package_name": "com.shuha.chat_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFVEqBI50te4i2pjoora7kc-IMZfxWJVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
